@@ -2,7 +2,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 global.available = true
-global.autoReadGc = true
+global.autoReadGc = false
 global.autoReadAll = false
 global.antitags = true
 
@@ -10,13 +10,13 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = false //auto recording (true to on, false to off)
 
-global.Owner = ['917012984396']
-global.OwnerNumber = ['917012984396']
-global.ownertag = ['917012984396']
-global.BotName = "SPARKY BOT"
-global.packname = "SPARKY BOT"
-global.author = "By: Aswin"
-global.OwnerName = "Aswin Sparky"
+global.Owner = ['918547659493']
+global.OwnerNumber = ['918547659493']
+global.ownertag = ['918547659493']
+global.BotName = "Ⴝ𝚃𝚁𝙰𝙽𝙶𝙴 𝙱𝙾𝚃"
+global.packname = "𝕾𝕿𝕽𝕬𝕹𝕲𝕰 𝕭𝕺𝕿"
+global.author = "By: ᴀʟᴩʜᴀ"
+global.OwnerName = "𝙳𝙾𝙲𝚃𝙾𝚁 𝙼𝙰𝚂𝚂"
 global.BotSourceCode = "https://github.com/Sparkymon777/SPARKY-BOT"
 global.SupportGroupLink = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"
 global.sessionName = "session"
@@ -31,7 +31,7 @@ global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.imgur.com/iaWuQRB.jpeg' }
 global.websitex = "https://github.com/Sparkymon777"
-global.lolhuman = "S P A R K Y"
+global.lolhuman = "𝚂 𝚃 𝚁 𝙰 𝙽 𝙶 𝙴"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
@@ -68,7 +68,7 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Okey ?!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: ' Wait....',
+    waiting: ' 𝙾𝙽𝙽𝚄 𝙰𝙳𝙴𝙽𝙶 𝙺𝚄𝚃𝚃𝙰 𝚃𝙷𝙴𝚁𝙰𝙼',
     nolink: 'Please provide me *link*, Uff!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!, Haha',
